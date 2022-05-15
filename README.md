@@ -1,5 +1,5 @@
 # clock
-matthewperrywa.github.io/clock/
+https://matthewperrywa.github.io/clock/
 
 Clock with moving hours, minutes, and seconds.
 
